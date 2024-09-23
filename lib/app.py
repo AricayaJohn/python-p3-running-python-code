@@ -6,3 +6,6 @@ print("Hello World! Pass this test, please.")
 
 # first_number = 7
 # print(first_number)
+
+#for imac 
+# brew install pipenv to do pipenv install and pipenv shell 
